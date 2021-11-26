@@ -26,8 +26,8 @@
     height: 300px;
 }
 .botonAdd {
-  background-color: #61DAFA;
-  box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+  background-color: #610d48;
+  box-shadow: 0px 5px 25px rgb(223, 119, 22);
   border: none;
   border-radius: 50%;
   cursor: pointer;
@@ -40,8 +40,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
 
   transform: rotate(1);
   transition: .3s ease;
