@@ -37,7 +37,7 @@ export default function MediaCards({ image, title, description }: Props) {
                 </CardContent>
             </CardActionArea>
             <CardActions >
-                <Button size="small" color="primary">Favorito</Button>
+                <Button size="small" color="primary">Editar</Button>
                 <Button size="small">Compartir</Button>
             </CardActions>
         </Card>

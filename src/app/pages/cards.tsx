@@ -40,9 +40,7 @@ export default function Cards() {
                     );
                 })}
             </Grid>
-            <IconButton >
-                <AddIcon className="botonAdd" />
-            </IconButton>
+            <button className="botonAdd" >+</button>
         </Box>
     );
 }
